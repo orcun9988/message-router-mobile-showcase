@@ -1,16 +1,22 @@
-# RelayFlow Mobile - Portfolio Showcase
+# MessagePilot - SMS Forwarder | App Store Product Showcase
 
 Cross-platform mobile architecture for routing incoming messages to configurable destinations through rules, local audit logs and background delivery workers.
 
+**Live product:** [MessagePilot - SMS Forwarder on the Apple App Store](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478) - iOS 1.2.0, published by Orcun Ozer.
+
 > **Portfolio snapshot:** this repository is intentionally incomplete. Production endpoints, credentials, receipt validation, subscription logic, background orchestration and most application source files were deliberately removed. The original product remains private; the material here exists only to demonstrate architecture, UI thinking and representative engineering decisions.
 
-## Sanitized UI previews
+## Real App Store screenshots
 
-![Dashboard preview](docs/images/dashboard.png)
+These are the actual screenshots used on the public Apple App Store listing, not generated mockups.
 
-![Rule editor preview](docs/images/rule-editor.png)
+<p align="center">
+  <img src="docs/images/messagepilot-app-store-1.jpg" width="31%" alt="MessagePilot production dashboard" />
+  <img src="docs/images/messagepilot-app-store-2.jpg" width="31%" alt="MessagePilot rule creation flow" />
+  <img src="docs/images/messagepilot-app-store-3.jpg" width="31%" alt="MessagePilot production settings" />
+</p>
 
-The previews use fictional data and neutral branding. They do not expose production accounts, destinations or customer messages.
+The screenshots contain no customer message content, destination addresses, credentials or private account data.
 
 ## What the private product demonstrates
 
