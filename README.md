@@ -1,6 +1,6 @@
 # MessagePilot - SMS Forwarder | App Store Product Showcase
 
-Cross-platform mobile architecture for routing incoming messages to configurable destinations through rules, local audit logs and background delivery workers.
+MessagePilot automatically forwards SMS messages received on an iPhone to destinations such as Telegram or email according to user-defined rules. This public repository demonstrates the supporting mobile architecture through routing rules, local audit logs and background delivery workers.
 
 **Live product:** [MessagePilot - SMS Forwarder on the Apple App Store](https://apps.apple.com/us/app/messagepilot-sms-forwarder/id6762195478) - iOS 1.2.0, published by Orcun Ozer.
 
